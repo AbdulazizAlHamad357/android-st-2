@@ -1,0 +1,5 @@
+تمرين سريع
+
+Int: Integer which is a number
+Double: A number that has a decimal point
+Character: Letters in any language
